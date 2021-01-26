@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/david/cuizhiying.github.com/source/_posts/C-point-initial'
+let g:netrw_dirhist_2='/home/david/Work/ACM/UVa_oj/133'
