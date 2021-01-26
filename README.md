@@ -3,7 +3,7 @@
 This is a vim profile for myself
 the best pratice
 
-    """  bash
+    """Shell 
     git clone https://github.com/CuiZhiying/cvim.git
     git submodule init
     git submodule update
@@ -13,7 +13,7 @@ the best pratice
 
 if there is no exesting .git dir in your home, it's the best
 
-    """ bash
+    """Shell
     git clone https://github.com/CuiZhiying/cvim.git ~
     git submodule init
     git submodule update
